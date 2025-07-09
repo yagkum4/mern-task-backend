@@ -1,6 +1,7 @@
 {
   "name": "mern-task-backend",
   "version": "1.0.0",
+  "description": "Task Manager backend using Express and MongoDB",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
